@@ -4,27 +4,27 @@ Sample gist of each of the files is as follows:
 
 1. GRU_CrossEntropy_Adam.ipynb
    
-  Here we have used GRU model with CrossEntropy Loss and Adam as optimizer.
+   Here we have used GRU model with CrossEntropy Loss and Adam as optimizer.
   
-  Achieved an accuracy of 83.65.
+   Achieved an accuracy of 83.65.
 
 2. GRU_NLL_SGD.ipynb
  
-  Here we have used GRU model with NLL Loss and SGD as optimizer.
+   Here we have used GRU model with NLL Loss and SGD as optimizer.
 
-  Achieved an accuracy of 79.22.
+   Achieved an accuracy of 79.22.
 
 3. LSTM_CrossEntropy_Adam.ipynb
 
-  Here we have used LSTM model with CrossEntropy Loss and Adam as optimizer.
+   Here we have used LSTM model with CrossEntropy Loss and Adam as optimizer.
 
-  Achieved an accuracy of 73.16
+   Achieved an accuracy of 73.16
 
 4. LSTM_NLL_SGD.ipynb
    
-  Here we have used LSTM model with NLL Loss and SGD as optimizer.
+   Here we have used LSTM model with NLL Loss and SGD as optimizer.
   
-  Achieved an accuracy of 74.32
+   Achieved an accuracy of 74.32
 
 5. predefined_models.ipynb
    
